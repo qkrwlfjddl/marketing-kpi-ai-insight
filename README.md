@@ -11,7 +11,7 @@ GA4 데이터 수집 → BigQuery KPI 집계 → 유저 군집 분석 → Vertex
 ---
 
 ## PREVIEW
-<p align="center">
+<p>
   <img src="docs/images/이벤트01.png" alt="이벤트 대시보드" width="70%">
 </p>
 
